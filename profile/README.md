@@ -8,6 +8,10 @@
 
 <div align="center">
   <strong>
-    Write software in the language you already speak. Let the agent handle the syntax
+    Write software in the language you already speak. Let the agent handle the syntax.
   </strong>
+</div>
+
+<div align="center">
+  <a href="https://openhint.dev">https://openhint.dev</a>
 </div>
