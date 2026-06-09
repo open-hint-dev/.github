@@ -11,7 +11,7 @@
     Write software in the language you already speak. Let the agent handle the syntax.
   </strong>
 </div>
-
+<br/>
 <div align="center">
   <a href="https://openhint.dev">https://openhint.dev</a>
 </div>
