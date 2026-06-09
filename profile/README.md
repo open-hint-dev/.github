@@ -6,6 +6,8 @@
   HINT — Human Intent Native Transpiler
 </h1>
 
-<strong align="center" style="display: block;">
-  Write software in the language you already speak. Let the agent handle the syntax
-</strong>
+<div align="center">
+  <strong>
+    Write software in the language you already speak. Let the agent handle the syntax
+  </strong>
+</div>
