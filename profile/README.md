@@ -8,7 +8,7 @@
 
 <div align="center">
   <strong>
-    Write software in the language you already speak. Let the agent handle the syntax.
+    Precision prompt engineering for predictable AI outcomes
   </strong>
 </div>
 <br/>
